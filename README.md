@@ -151,8 +151,6 @@ python app.py
 
 ## 📸 Demonstração
 
-### 🧪 Vídeo mostrando a aplicação em funcionamento
-
 ![DemonstraçãoProjeto](media/datacollectyoutube.mp4)
 
 ---
