@@ -153,7 +153,7 @@ python app.py
 
 ### 🧪 Vídeo mostrando a aplicação em funcionamento
 
-![DemonstraçãoProjeto](media/datacollectyoutube.gif)
+![DemonstraçãoProjeto](media/datacollectyoutube)
 
 ---
 
