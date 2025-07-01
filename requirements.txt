@@ -1,0 +1,4 @@
+Flask
+google-api-python-client
+youtube-transcript-api
+pymongo
