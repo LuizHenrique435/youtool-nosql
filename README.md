@@ -151,7 +151,7 @@ python app.py
 
 ## 📸 Demonstração
 
-![DemonstraçãoProjeto](media/datacollectyoutube.mp4)
+![DemonstraçãoProjeto](media/datacollectyoutube.gif)
 
 ---
 
