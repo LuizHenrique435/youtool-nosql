@@ -1,4 +1,5 @@
-# 🎙️ YouTube Data Collector (Flask + YouTube API + MongoDB)
+# 🎙️ YouTube Data Collector  
+### Coletor automatizado de dados de canais do YouTube com Flask + MongoDB
 
 Este projeto é uma aplicação web em Flask que permite ao usuário inserir o **ID de um canal do YouTube** (ex: `UC_x5XG1OV2P6uZZ5FSM9Ttw`) ou um **@handle** (ex: `@nome_do_canal`) para coletar automaticamente:
 
@@ -10,6 +11,19 @@ Este projeto é uma aplicação web em Flask que permite ao usuário inserir o *
 - ✅ **Super Chats**
 
 Todos os dados são armazenados em um banco de dados **MongoDB** para posterior análise.
+
+---
+
+## 📚 Sumário
+
+- [Funcionalidades](#-funcionalidades)
+- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
+- [Instalação](#️-instalação)
+- [Como Usar](#-como-usar)
+- [Exemplo de Documento no MongoDB](#-exemplo-de-documento-no-mongodb)
+- [Demonstração](#-demonstração)
+- [Requisitos](#-requirementstxt)
+- [Observações](#-observações)
 
 ---
 
